@@ -1,0 +1,7 @@
+[user]
+	email = itcertific2020@gmail.com
+	name = itman12345
+	signingkey = B0BDB42138F16D2715A571F7D48E8BB8379283B8
+[commit]
+	gpgsign = true
+	template = C:/Users/apply/.gitmessage
